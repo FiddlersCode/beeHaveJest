@@ -19,7 +19,7 @@ class Bees extends React.Component {
     const { navigate } = this.props.navigation;
     return (
       <View>
-        <Title />
+        <Title headerText={'Bee Have'}/>
         <BackgroundImage />
         <Button
           onPress={() => navigate('Silly')}
@@ -37,7 +37,7 @@ class BeeSilly extends React.Component {
   render() {
     return (
       <View>
-        <Title />
+        <Title headerText={'Bee Silly'}/>
         <Text> How silly are you beeeeeeing? </Text>
       </View>
     );

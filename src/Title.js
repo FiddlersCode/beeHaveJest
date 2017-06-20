@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import { Text, StyleSheet } from 'react-native';
 
 
-const Title = () => {
+const Title = (props) => {
   return (
-      <Text style={styles.welcome}>BeeHappy</Text>
+      <Text style={styles.welcome}>{props.headerText}</Text>
   );
 };
 
