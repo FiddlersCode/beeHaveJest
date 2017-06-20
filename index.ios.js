@@ -12,6 +12,7 @@ import {
   View
 } from 'react-native';
 import Title from './src/Title.js'
+
 export default class beeTesting extends Component {
   render() {
     return (
