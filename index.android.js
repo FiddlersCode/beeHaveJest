@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class beeTesting extends Component {
+export default class BeeTesting extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('beeTesting', () => beeTesting);
+AppRegistry.registerComponent('BeeTesting', () => BeeTesting);

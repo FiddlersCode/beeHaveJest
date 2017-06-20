@@ -1,22 +1,27 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
+* Sample React Native App
+* https://github.com/facebook/react-native
+* @flow
+*/
 
 import React, { Component } from 'react';
 import {
   AppRegistry,
   StyleSheet,
   Text,
+  Image,
   View
 } from 'react-native';
-import Title from './src/Title.js'
+import Title from './src/Title.js';
+import BackgroundImage from './src/BackgroundImage.js';
 
-export default class beeTesting extends Component {
+export default class BeeTesting extends Component {
   render() {
     return (
-      <Title />
+      <View>
+        <Title />
+        <BackgroundImage/>
+      </View>
     );
   }
 }
@@ -40,4 +45,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('beeTesting', () => beeTesting);
+AppRegistry.registerComponent('BeeTesting', () => BeeTesting);

@@ -1,4 +1,4 @@
-package com.beetesting;
+package com.BeeTesting;
 
 import android.app.Application;
 

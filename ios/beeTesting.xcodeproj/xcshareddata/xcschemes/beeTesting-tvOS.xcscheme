@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "beeTesting-tvOS.app"
-               BlueprintName = "beeTesting-tvOS"
-               ReferencedContainer = "container:beeTesting.xcodeproj">
+               BuildableName = "BeeTesting-tvOS.app"
+               BlueprintName = "BeeTesting-tvOS"
+               ReferencedContainer = "container:BeeTesting.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "beeTesting-tvOSTests.xctest"
-               BlueprintName = "beeTesting-tvOSTests"
-               ReferencedContainer = "container:beeTesting.xcodeproj">
+               BuildableName = "BeeTesting-tvOSTests.xctest"
+               BlueprintName = "BeeTesting-tvOSTests"
+               ReferencedContainer = "container:BeeTesting.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "beeTesting-tvOSTests.xctest"
-               BlueprintName = "beeTesting-tvOSTests"
-               ReferencedContainer = "container:beeTesting.xcodeproj">
+               BuildableName = "BeeTesting-tvOSTests.xctest"
+               BlueprintName = "BeeTesting-tvOSTests"
+               ReferencedContainer = "container:BeeTesting.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "beeTesting-tvOS.app"
-            BlueprintName = "beeTesting-tvOS"
-            ReferencedContainer = "container:beeTesting.xcodeproj">
+            BuildableName = "BeeTesting-tvOS.app"
+            BlueprintName = "BeeTesting-tvOS"
+            ReferencedContainer = "container:BeeTesting.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "beeTesting-tvOS.app"
-            BlueprintName = "beeTesting-tvOS"
-            ReferencedContainer = "container:beeTesting.xcodeproj">
+            BuildableName = "BeeTesting-tvOS.app"
+            BlueprintName = "BeeTesting-tvOS"
+            ReferencedContainer = "container:BeeTesting.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "beeTesting-tvOS.app"
-            BlueprintName = "beeTesting-tvOS"
-            ReferencedContainer = "container:beeTesting.xcodeproj">
+            BuildableName = "BeeTesting-tvOS.app"
+            BlueprintName = "BeeTesting-tvOS"
+            ReferencedContainer = "container:BeeTesting.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
