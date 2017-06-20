@@ -10,9 +10,9 @@ import { StackNavigator } from 'react-navigation';
 import Title from './src/Title.js';
 import BackgroundImage from './src/BackgroundImage.js';
 
-class BeeTesting extends React.Component {
+class Bees extends React.Component {
   static navigationOptions = {
-    title: 'Bee Happy',
+    title: 'Welcome to Bees',
   };
   render() {
     return (
@@ -23,5 +23,9 @@ class BeeTesting extends React.Component {
     )
   }
 }
+
+const BeeTesting = StackNavigator({
+  Home: { screen: Bees },
+});
 
 AppRegistry.registerComponent('BeeTesting', () => BeeTesting);
